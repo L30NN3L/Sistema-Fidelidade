@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TI_Fidelidade.Calendario">
+    <Position X="9" Y="11" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Classes de Controle\Calendario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Centrifuga">
+    <Position X="7" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Classes de Controle\Centrifuga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Fruteira">
+    <Position X="6.75" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAgAAAAAAEAAAIAAAAAAAAAABAgAAAAAAACEI=</HashCode>
+      <FileName>Classes de Controle\Fruteira.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.PontosAcc_12_ult_Meses">
+    <Position X="4.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAGAAAABAAAABCAAAAQAAAAAAACAAAQAgIAAAAAA=</HashCode>
+      <FileName>Classes de Controle\PontosAcc_12_ult_Meses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Program">
+    <Position X="10.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes de Controle\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Abacate">
+    <Position X="3" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Classes de Modelo\Abacate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Cliente">
+    <Position X="0.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAEACAAAAAgBAAAIjaEAAIygAAAAAAAAAEAAEA=</HashCode>
+      <FileName>Classes de Modelo\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Laranja">
+    <Position X="6" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Classes de Modelo\Laranja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Manga">
+    <Position X="9" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Classes de Modelo\Manga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.SucoDeFruta">
+    <Position X="12.5" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Classes de Modelo\SucoDeFruta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Voo">
+    <Position X="6.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABIBEAAQABAAAAAAACAAAAAgAAQAAAAEUAAAgEACAY=</HashCode>
+      <FileName>Classes de Modelo\Voo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Cadastro">
+    <Position X="18.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIOkAoCCQQCEAQgiWIAgawRAgJCIEEKlAEIgpYIg=</HashCode>
+      <FileName>Classes de Visão\Cadastro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Clientes">
+    <Position X="15.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAFAACAAAAAAAACAAAACAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Classes de Visão\Clientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Grafico">
+    <Position X="16.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAIAACAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Classes de Visão\Grafico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Home">
+    <Position X="13" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAAAAQCAAAQCAAAAIAAAABAAAAAAAAA=</HashCode>
+      <FileName>Classes de Visão\Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Principal">
+    <Position X="13.5" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCABAIgAAAiAEAACBAQAAAAAAABAAAAAUQA=</HashCode>
+      <FileName>Classes de Visão\Principal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Properties.Resources">
+    <Position X="16.5" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_Fidelidade.Properties.Settings">
+    <Position X="16.5" Y="10" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

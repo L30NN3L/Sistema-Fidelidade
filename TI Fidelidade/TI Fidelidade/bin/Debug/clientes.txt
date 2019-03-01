@@ -1,0 +1,76 @@
+CodCliente,NomeCliente,CidadeOrigem,email,Genero,DataNascimento
+1,Howard Henry,E’erdun Wula,hhenry0@utexas.edu,M,05/03/1989 00:00:00
+2,Nicole Wells,Trelleborg,nwells1@slashdot.org,F,01/08/1991 00:00:00
+3,Dennis Hunter,Gagnoa,dhunter2@nature.com,M,31/10/1997 00:00:00
+4,Nicholas Harris,Arish,nharris3@statcounter.com,M,13/01/1988 00:00:00
+5,Jose Alexander,La Floresta,jalexander4@salon.com,M,16/06/1984 00:00:00
+6,Margaret Rice,Martin,mrice5@rediff.com,F,21/08/1991 00:00:00
+7,Janice Kennedy,Wakefield,jkennedy6@cam.ac.uk,F,09/06/1996 00:00:00
+8,Ralph Riley,Saldanha,rriley7@purevolume.com,M,05/07/2000 00:00:00
+9,Kathy Grant,Delingha,kgrant8@creativecommons.org,F,23/03/1991 00:00:00
+10,Aaron Fernandez,Lianzhou,afernandez9@home.pl,M,20/06/1986 00:00:00
+11,Jose Clark,Rzhev,jclarka@github.io,M,27/10/1999 00:00:00
+12,Andrea Carroll,Nūr,acarrollb@ifeng.com,F,13/09/1981 00:00:00
+13,Eric Pierce,Werangere,epiercec@opera.com,M,04/09/1983 00:00:00
+14,Russell Russell,Culeng,rrusselld@unesco.org,M,01/11/1998 00:00:00
+15,Johnny Tucker,Sinamar,jtuckere@bigcartel.com,M,04/06/1996 00:00:00
+16,Barbara Knight,Rusocice,bknightf@globo.com,F,15/12/1990 00:00:00
+17,Amanda Turner,Bitin,aturnerg@theglobeandmail.com,F,27/11/1984 00:00:00
+18,Justin Moore,‘Arīshah,jmooreh@cbsnews.com,M,10/06/1990 00:00:00
+19,Steve Murray,Danidehe,smurrayi@businessweek.com,M,14/06/1980 00:00:00
+20,Carolyn Wright,Waterloo,cwrightj@aboutads.info,F,26/04/1992 00:00:00
+21,Angela Kelly,Heshan,akellyk@posterous.com,F,13/04/2000 00:00:00
+22,David Olson,Gedangan,dolsonl@whitehouse.gov,M,19/03/1992 00:00:00
+23,Frank Fowler,Zili,ffowlerm@harvard.edu,M,11/12/1994 00:00:00
+24,Keith Miller,Yurla,kmillern@nature.com,M,17/11/1981 00:00:00
+25,Arthur Harrison,Gambalidio,aharrisono@wisc.edu,M,04/02/1998 00:00:00
+26,Ronald Palmer,Shiyan,rpalmerp@eventbrite.com,M,09/04/1987 00:00:00
+27,Walter Bowman,Bentar Girang,wbowmanq@paypal.com,M,28/03/1989 00:00:00
+28,Alan Johnson,Jargalant,ajohnsonr@boston.com,M,03/12/1987 00:00:00
+29,Ashley Cruz,Luzhai,acruzs@examiner.com,F,17/12/1990 00:00:00
+30,Katherine Tucker,Minglanilla,ktuckert@nymag.com,F,06/12/1987 00:00:00
+31,Denise Stephens,Novoshakhtinsk,dstephensu@ucoz.com,F,30/08/2000 00:00:00
+32,Gloria Mills,Longhua,gmillsv@auda.org.au,F,15/02/1992 00:00:00
+33,Juan Harvey,Atães,jharveyw@cdbaby.com,M,21/09/1988 00:00:00
+34,Jerry Edwards,Timon,jedwardsx@elegantthemes.com,M,22/06/1992 00:00:00
+35,Amy Lopez,Baiqiao,alopezy@edublogs.org,F,29/12/1985 00:00:00
+36,Melissa Franklin,Banjar Batanpoh,mfranklinz@loc.gov,F,16/01/1995 00:00:00
+37,Anna Hawkins,Chaloem Phra Kiat,ahawkins10@sakura.ne.jp,F,11/03/2000 00:00:00
+38,Heather Andrews,Beiyang,handrews11@kickstarter.com,F,08/06/1980 00:00:00
+39,Ann Simpson,Sezemice,asimpson12@mediafire.com,F,21/12/1999 00:00:00
+40,Christopher Alvarez,Dodola,calvarez13@cdc.gov,M,18/07/1985 00:00:00
+41,Heather Cook,Urjala,hcook14@vistaprint.com,F,20/05/1993 00:00:00
+42,Jerry Fuller,Zhongxing,jfuller15@jalbum.net,M,10/08/1989 00:00:00
+43,Carlos Sullivan,Andoany,csullivan16@icq.com,M,01/06/1995 00:00:00
+44,Raymond Gardner,Tampocon,rgardner17@bloglines.com,M,18/07/1987 00:00:00
+45,Amanda Rogers,Mohelno,arogers18@cnbc.com,F,24/04/1990 00:00:00
+46,Jeremy Boyd,Amolatar,jboyd19@oakley.com,M,07/09/1980 00:00:00
+47,Todd Garrett,Jinping,tgarrett1a@weibo.com,M,14/11/1985 00:00:00
+48,Mark Romero,Montague,mromero1b@php.net,M,05/12/1983 00:00:00
+49,Amanda White,Zhongba,awhite1c@virginia.edu,F,24/08/1992 00:00:00
+50,Doris Moreno,Boulaide,dmoreno1d@ed.gov,F,09/04/1994 00:00:00
+51,Douglas Crawford,Longtan,dcrawford1e@unc.edu,M,21/12/1999 00:00:00
+52,Roy Cox,Marisgama,rcox1f@fema.gov,M,30/08/1983 00:00:00
+53,Shawn Hamilton,Mandalt,shamilton1g@hud.gov,M,13/01/1983 00:00:00
+54,Brian Hughes,Longcun,bhughes1h@domainmarket.com,M,10/04/1997 00:00:00
+55,Jeremy Cole,Zborište,jcole1i@craigslist.org,M,30/08/2000 00:00:00
+56,Ernest Rogers,Bariri,erogers1j@ucla.edu,M,14/10/1983 00:00:00
+57,Ryan Cooper,Grand Sable,rcooper1k@imageshack.us,M,04/08/1994 00:00:00
+58,Craig Stone,Meixian,cstone1l@slate.com,M,23/01/1999 00:00:00
+59,Kathleen Richards,Selmes,krichards1m@google.com.br,F,03/11/1995 00:00:00
+60,Ernest White,Dagup,ewhite1n@reddit.com,M,27/10/2000 00:00:00
+61,Brian Kennedy,Longhe,bkennedy1o@hexun.com,M,01/08/1984 00:00:00
+62,Linda Gilbert,Cobh,lgilbert1p@fc2.com,F,19/06/1990 00:00:00
+63,Melissa Carpenter,Babakansalam,mcarpenter1q@stanford.edu,F,30/07/1993 00:00:00
+64,Lori Peters,Kallithéa,lpeters1r@sciencedaily.com,F,14/01/1995 00:00:00
+65,Todd Schmidt,Kebonan,tschmidt1s@buzzfeed.com,M,28/05/1998 00:00:00
+66,Julie Hall,Xiaoxi,jhall1t@alexa.com,F,29/05/1984 00:00:00
+67,Fred Bradley,Guanqian,fbradley1u@delicious.com,M,10/08/1996 00:00:00
+68,Jessica Hicks,Changqi,jhicks1v@tinypic.com,F,11/05/1985 00:00:00
+69,Carl Rice,Callao,crice1w@gravatar.com,M,21/07/1991 00:00:00
+70,Theresa Rivera,Philadelphia,trivera1x@zimbio.com,F,19/02/1980 00:00:00
+71,Steven Harrison,Xiakou,sharrison1y@bandcamp.com,M,09/04/1981 00:00:00
+72,Bruce Griffin,Privolzhsk,bgriffin1z@sina.com.cn,M,20/09/1983 00:00:00
+73,Janet Reed,Bopu,jreed20@booking.com,F,28/08/2000 00:00:00
+74,Janice Burton,Mbinga,jburton21@slashdot.org,F,01/04/1984 00:00:00
+75,Andrea Hicks,Razvanje,ahicks22@newsvine.com,F,25/10/1993 00:00:00

@@ -1,0 +1,69 @@
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.exe
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Cadastro.resources
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Clientes.resources
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Home.resources
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Principal.resources
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.exe
+c:\users\pedro\documents\visual studio 2013\Projects\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.pdb
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.exe
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.pdb
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.exe
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.pdb
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csprojResolveAssemblyReference.cache
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Cadastro.resources
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Clientes.resources
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Home.resources
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Principal.resources
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Properties.Resources.resources
+C:\Users\550681\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.exe
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.pdb
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Cadastro.resources
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Clientes.resources
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Home.resources
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Principal.resources
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.exe
+C:\Users\Pedro\Desktop\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.pdb
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.exe
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.pdb
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.exe
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.pdb
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Cadastro.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Clientes.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Home.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Principal.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Properties.Resources.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csproj.GenerateResource.Cache
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Grafico.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csprojResolveAssemblyReference.cache
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.exe
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.pdb
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.exe
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.pdb
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csprojResolveAssemblyReference.cache
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Cadastro.resources
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Clientes.resources
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Grafico.resources
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Home.resources
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Principal.resources
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Properties.Resources.resources
+C:\Users\546508\Downloads\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csproj.GenerateResource.Cache
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.exe
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.pdb
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.exe
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\bin\Debug\TI Fidelidade.pdb
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Cadastro.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Clientes.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Grafico.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Home.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Principal.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI_Fidelidade.Properties.Resources.resources
+C:\Users\Hugo\Documents\POO\TRABALHO INTERDISCIPLINAR\TI Fidelidade Final\TI Fidelidade\TI Fidelidade\obj\Debug\TI Fidelidade.csproj.GenerateResource.Cache

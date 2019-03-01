@@ -1,0 +1,1003 @@
+idVoo, CodCliente, TipoVoo, CompanhiaVoo, DataVoo, CidadeOrigem
+705,1,Normal,Gol,22/01/2014,Belo Horizonte
+997,1,Promocional,Gol,27/01/2014,Fortaleza
+656,1,Promocional,Gol,08/03/2014,Floripa
+149,1,Normal,Gol,05/04/2014,Salvador
+161,1,Promocional,Azul,26/07/2014,Floripa
+637,1,Promocional,Azul,15/08/2014,Porto Alegre
+48,1,Promocional,Azul,23/08/2014,Fortaleza
+971,1,Promocional,Azul,24/01/2015,Bonito
+657,1,Normal,Gol,22/02/2015,Rio
+32,1,Normal,Azul,12/03/2015,Porto Alegre
+344,1,Normal,Gol,10/10/2015,Curitiba
+407,1,Normal,Azul,14/10/2015,Sao Paulo
+769,1,Promocional,Gol,24/11/2015,Vila Velha
+724,2,Normal,Tam,10/04/2014,Vila Velha
+996,2,Normal,Gol,16/06/2014,Sao Paulo
+91,2,Promocional,Tam,18/09/2014,Porto Alegre
+340,2,Promocional,Azul,01/12/2014,Bonito
+662,2,Promocional,Azul,24/04/2015,Vila Velha
+165,2,Normal,Gol,19/05/2015,Manaus
+501,2,Promocional,Gol,22/07/2015,Manaus
+269,2,Promocional,Gol,29/11/2015,Belo Horizonte
+179,2,Normal,Gol,31/12/2015,Manaus
+806,3,Promocional,Tam,16/02/2014,Belo Horizonte
+702,3,Normal,Tam,10/04/2014,Vila Velha
+382,3,Normal,Azul,05/05/2014,Floripa
+584,3,Promocional,Tam,19/06/2014,Salvador
+486,3,Normal,Gol,20/06/2014,Bonito
+972,3,Normal,Gol,12/09/2014,Floripa
+415,3,Promocional,Tam,16/09/2014,Manaus
+587,3,Normal,Tam,08/11/2014,Manaus
+278,3,Normal,Tam,13/01/2015,Rio
+692,3,Normal,Gol,22/01/2015,Curitiba
+995,3,Promocional,Gol,03/02/2015,Vila Velha
+894,3,Promocional,Azul,16/04/2015,Bonito
+538,3,Promocional,Tam,19/04/2015,Bonito
+630,3,Promocional,Azul,16/05/2015,Curitiba
+502,3,Normal,Tam,07/06/2015,Salvador
+219,3,Promocional,Gol,03/08/2015,Rio
+960,3,Normal,Gol,24/10/2015,Manaus
+845,3,Normal,Gol,21/12/2015,Floripa
+295,4,Normal,Gol,20/02/2014,Rio
+933,4,Normal,Tam,28/02/2014,Bonito
+373,4,Promocional,Tam,09/03/2014,Belo Horizonte
+562,4,Normal,Gol,08/04/2014,Rio
+927,4,Normal,Tam,14/04/2014,Belo Horizonte
+852,4,Normal,Gol,25/04/2014,Porto Alegre
+418,4,Normal,Gol,07/05/2014,Fortaleza
+45,4,Promocional,Azul,02/06/2014,Sao Paulo
+696,4,Promocional,Gol,05/06/2014,Rio
+799,4,Promocional,Azul,06/06/2014,Bonito
+504,4,Promocional,Gol,25/03/2015,Fortaleza
+652,4,Normal,Gol,21/07/2015,Curitiba
+775,4,Promocional,Azul,14/09/2015,Floripa
+545,4,Normal,Tam,08/11/2015,Vila Velha
+593,5,Normal,Azul,09/04/2014,Sao Paulo
+422,5,Normal,Azul,19/05/2014,Porto Alegre
+958,5,Normal,Tam,27/08/2014,Salvador
+388,5,Normal,Tam,17/09/2014,Sao Paulo
+209,5,Promocional,Gol,21/10/2014,Floripa
+203,5,Promocional,Tam,10/11/2014,Belo Horizonte
+13,5,Promocional,Gol,06/01/2015,Rio
+293,5,Promocional,Tam,04/02/2015,Belo Horizonte
+403,5,Promocional,Tam,07/02/2015,Sao Paulo
+785,5,Promocional,Tam,04/03/2015,Fortaleza
+180,5,Normal,Azul,07/05/2015,Porto Alegre
+602,5,Promocional,Gol,21/08/2015,Porto Alegre
+885,5,Promocional,Tam,22/09/2015,Belo Horizonte
+973,5,Promocional,Gol,23/11/2015,Belo Horizonte
+237,5,Promocional,Tam,19/12/2015,Sao Paulo
+536,5,Normal,Tam,26/12/2015,Bonito
+423,6,Promocional,Azul,27/01/2014,Rio
+937,6,Promocional,Tam,03/03/2014,Curitiba
+854,6,Promocional,Tam,04/03/2014,Vila Velha
+7,6,Normal,Gol,22/05/2014,Manaus
+577,6,Normal,Gol,03/06/2014,Vila Velha
+617,6,Promocional,Azul,17/07/2014,Floripa
+876,6,Promocional,Tam,28/09/2014,Manaus
+832,6,Promocional,Tam,09/10/2014,Bonito
+733,6,Promocional,Azul,15/11/2014,Belo Horizonte
+570,6,Normal,Azul,16/02/2015,Floripa
+338,6,Promocional,Azul,31/05/2015,Rio
+98,6,Normal,Gol,15/08/2015,Manaus
+749,6,Promocional,Gol,17/10/2015,Rio
+895,7,Normal,Gol,25/01/2014,Sao Paulo
+881,7,Normal,Gol,30/01/2014,Fortaleza
+707,7,Promocional,Gol,15/02/2014,Floripa
+695,7,Promocional,Gol,16/02/2014,Fortaleza
+896,7,Normal,Gol,13/04/2014,Vila Velha
+763,7,Normal,Azul,11/05/2014,Sao Paulo
+559,7,Normal,Tam,14/05/2014,Rio
+514,7,Promocional,Azul,11/06/2014,Rio
+144,7,Promocional,Azul,31/08/2014,Vila Velha
+665,7,Normal,Gol,18/03/2015,Bonito
+841,7,Normal,Gol,03/04/2015,Sao Paulo
+474,7,Normal,Tam,19/07/2015,Porto Alegre
+684,7,Promocional,Azul,30/07/2015,Manaus
+408,8,Promocional,Azul,20/01/2014,Sao Paulo
+541,8,Normal,Gol,29/06/2014,Curitiba
+453,8,Normal,Gol,25/08/2014,Floripa
+915,8,Normal,Tam,08/11/2014,Rio
+35,8,Promocional,Azul,18/12/2014,Fortaleza
+607,8,Normal,Gol,25/03/2015,Fortaleza
+164,8,Promocional,Tam,16/10/2015,Manaus
+302,8,Normal,Gol,27/11/2015,Floripa
+860,8,Promocional,Gol,29/12/2015,Belo Horizonte
+659,9,Promocional,Gol,25/03/2014,Porto Alegre
+378,9,Normal,Azul,04/04/2014,Vila Velha
+566,9,Promocional,Tam,19/07/2014,Bonito
+497,9,Promocional,Gol,28/09/2014,Salvador
+166,9,Normal,Azul,25/10/2014,Vila Velha
+305,9,Normal,Gol,28/10/2014,Belo Horizonte
+887,9,Normal,Azul,07/11/2014,Rio
+986,9,Normal,Azul,07/12/2014,Curitiba
+178,9,Promocional,Tam,27/01/2015,Sao Paulo
+770,9,Normal,Gol,08/02/2015,Curitiba
+49,9,Promocional,Azul,25/04/2015,Salvador
+911,9,Normal,Tam,07/05/2015,Bonito
+216,9,Promocional,Tam,30/07/2015,Vila Velha
+300,9,Normal,Gol,29/11/2015,Manaus
+729,9,Normal,Gol,05/12/2015,Sao Paulo
+610,10,Promocional,Gol,23/01/2014,Curitiba
+376,10,Normal,Tam,16/03/2014,Curitiba
+247,10,Normal,Azul,12/06/2014,Floripa
+742,10,Normal,Tam,03/12/2014,Porto Alegre
+294,10,Normal,Gol,22/01/2015,Sao Paulo
+966,10,Normal,Azul,07/04/2015,Fortaleza
+892,10,Promocional,Gol,08/05/2015,Rio
+176,10,Normal,Tam,12/05/2015,Porto Alegre
+273,10,Promocional,Gol,05/06/2015,Vila Velha
+913,10,Normal,Gol,11/06/2015,Bonito
+907,10,Promocional,Gol,19/06/2015,Floripa
+853,10,Normal,Azul,15/08/2015,Sao Paulo
+634,10,Promocional,Azul,12/09/2015,Vila Velha
+12,10,Normal,Tam,16/09/2015,Salvador
+796,10,Promocional,Gol,08/10/2015,Curitiba
+251,10,Normal,Tam,25/10/2015,Curitiba
+919,10,Normal,Azul,16/11/2015,Sao Paulo
+870,10,Promocional,Tam,20/11/2015,Salvador
+782,11,Promocional,Azul,13/01/2014,Belo Horizonte
+332,11,Promocional,Azul,16/02/2014,Sao Paulo
+959,11,Normal,Azul,17/02/2014,Manaus
+56,11,Promocional,Tam,26/02/2014,Rio
+772,11,Normal,Azul,19/04/2014,Belo Horizonte
+83,11,Promocional,Gol,09/05/2014,Floripa
+982,11,Normal,Tam,16/07/2014,Rio
+309,11,Normal,Azul,09/08/2014,Floripa
+663,11,Normal,Gol,27/11/2014,Belo Horizonte
+109,11,Normal,Azul,05/01/2015,Floripa
+533,11,Normal,Tam,16/04/2015,Sao Paulo
+394,11,Normal,Tam,04/05/2015,Salvador
+588,11,Normal,Tam,05/05/2015,Vila Velha
+377,11,Promocional,Gol,08/05/2015,Rio
+776,11,Promocional,Gol,24/07/2015,Fortaleza
+260,11,Promocional,Tam,31/08/2015,Belo Horizonte
+85,11,Normal,Tam,29/11/2015,Curitiba
+245,12,Promocional,Tam,27/03/2014,Porto Alegre
+678,12,Promocional,Gol,03/05/2014,Fortaleza
+288,12,Promocional,Gol,19/06/2014,Vila Velha
+58,12,Promocional,Tam,05/07/2014,Floripa
+658,12,Promocional,Gol,22/07/2014,Curitiba
+383,12,Normal,Gol,16/08/2014,Manaus
+904,12,Normal,Azul,28/11/2014,Manaus
+856,12,Normal,Azul,23/12/2014,Rio
+641,12,Promocional,Tam,05/01/2015,Salvador
+386,12,Normal,Azul,07/01/2015,Fortaleza
+518,12,Promocional,Gol,31/03/2015,Vila Velha
+196,12,Promocional,Gol,14/04/2015,Belo Horizonte
+572,12,Promocional,Tam,06/05/2015,Salvador
+508,12,Promocional,Azul,13/08/2015,Fortaleza
+517,12,Promocional,Azul,20/10/2015,Rio
+353,12,Normal,Tam,25/10/2015,Sao Paulo
+27,12,Promocional,Azul,16/12/2015,Vila Velha
+11,12,Normal,Gol,24/12/2015,Manaus
+211,13,Promocional,Gol,18/12/2014,Belo Horizonte
+308,13,Normal,Tam,08/01/2015,Floripa
+467,13,Promocional,Tam,15/01/2015,Sao Paulo
+399,13,Promocional,Gol,10/04/2015,Belo Horizonte
+277,13,Promocional,Tam,11/05/2015,Manaus
+815,13,Promocional,Gol,14/05/2015,Salvador
+816,13,Normal,Gol,09/06/2015,Floripa
+405,13,Normal,Azul,19/07/2015,Vila Velha
+385,13,Normal,Tam,23/09/2015,Fortaleza
+359,13,Normal,Gol,11/10/2015,Sao Paulo
+908,13,Promocional,Azul,26/10/2015,Bonito
+350,14,Normal,Azul,03/04/2014,Curitiba
+270,14,Normal,Azul,18/06/2014,Belo Horizonte
+39,14,Promocional,Azul,24/06/2014,Vila Velha
+544,14,Promocional,Tam,25/06/2014,Salvador
+897,14,Promocional,Tam,23/07/2014,Belo Horizonte
+640,14,Normal,Gol,17/09/2014,Belo Horizonte
+901,14,Promocional,Azul,16/12/2014,Curitiba
+721,14,Promocional,Tam,16/12/2014,Sao Paulo
+563,14,Normal,Gol,22/01/2015,Porto Alegre
+355,14,Normal,Azul,16/03/2015,Sao Paulo
+158,14,Promocional,Tam,27/04/2015,Sao Paulo
+687,14,Promocional,Azul,29/09/2015,Floripa
+78,14,Promocional,Tam,10/12/2015,Manaus
+459,15,Promocional,Azul,03/01/2014,Salvador
+661,15,Normal,Azul,02/03/2014,Belo Horizonte
+668,15,Promocional,Azul,16/04/2014,Rio
+53,15,Normal,Gol,25/04/2014,Bonito
+494,15,Promocional,Azul,25/07/2014,Floripa
+115,15,Promocional,Tam,14/08/2014,Belo Horizonte
+310,15,Normal,Azul,16/11/2014,Curitiba
+820,15,Normal,Gol,10/01/2015,Vila Velha
+252,15,Promocional,Azul,27/02/2015,Belo Horizonte
+339,15,Normal,Azul,09/03/2015,Belo Horizonte
+875,15,Normal,Tam,30/04/2015,Vila Velha
+491,15,Normal,Tam,01/05/2015,Bonito
+672,15,Promocional,Azul,11/08/2015,Floripa
+448,15,Promocional,Gol,28/08/2015,Curitiba
+936,15,Normal,Gol,07/09/2015,Floripa
+475,15,Promocional,Tam,29/09/2015,Curitiba
+868,16,Promocional,Gol,10/01/2014,Fortaleza
+632,16,Promocional,Azul,14/02/2014,Rio
+306,16,Promocional,Gol,28/05/2014,Sao Paulo
+54,16,Promocional,Tam,21/06/2014,Vila Velha
+507,16,Promocional,Azul,19/10/2014,Bonito
+898,16,Normal,Tam,30/10/2014,Manaus
+146,16,Promocional,Tam,02/12/2014,Bonito
+670,16,Promocional,Tam,13/01/2015,Belo Horizonte
+977,16,Promocional,Gol,08/03/2015,Porto Alegre
+811,16,Normal,Gol,19/04/2015,Bonito
+75,16,Promocional,Azul,10/08/2015,Belo Horizonte
+605,16,Promocional,Gol,23/08/2015,Curitiba
+568,16,Normal,Azul,11/09/2015,Curitiba
+753,16,Normal,Azul,20/10/2015,Manaus
+60,17,Normal,Tam,21/02/2014,Vila Velha
+925,17,Normal,Azul,05/04/2014,Fortaleza
+939,17,Promocional,Gol,06/08/2014,Salvador
+256,17,Promocional,Gol,09/11/2014,Rio
+921,17,Normal,Tam,23/11/2014,Curitiba
+589,17,Normal,Tam,05/12/2014,Curitiba
+113,17,Promocional,Tam,13/01/2015,Rio
+626,17,Normal,Gol,06/04/2015,Sao Paulo
+395,17,Normal,Tam,18/04/2015,Salvador
+523,17,Promocional,Tam,09/05/2015,Belo Horizonte
+558,17,Promocional,Azul,12/05/2015,Bonito
+549,17,Normal,Gol,27/07/2015,Salvador
+194,17,Normal,Tam,06/08/2015,Rio
+555,17,Promocional,Tam,02/10/2015,Salvador
+794,17,Promocional,Tam,30/10/2015,Salvador
+244,18,Normal,Tam,05/04/2014,Porto Alegre
+528,18,Normal,Tam,22/05/2014,Porto Alegre
+224,18,Promocional,Tam,17/08/2014,Porto Alegre
+768,18,Normal,Azul,06/01/2015,Belo Horizonte
+218,18,Promocional,Tam,01/02/2015,Floripa
+80,18,Promocional,Gol,27/06/2015,Vila Velha
+537,19,Promocional,Azul,05/01/2014,Manaus
+809,19,Promocional,Tam,02/03/2014,Fortaleza
+793,19,Normal,Azul,05/05/2014,Manaus
+118,19,Normal,Azul,13/11/2014,Porto Alegre
+739,19,Normal,Azul,14/11/2014,Rio
+132,19,Promocional,Azul,04/07/2015,Sao Paulo
+241,19,Promocional,Gol,08/07/2015,Floripa
+598,19,Normal,Azul,21/07/2015,Porto Alegre
+582,19,Normal,Gol,07/09/2015,Curitiba
+361,19,Normal,Azul,26/10/2015,Porto Alegre
+981,19,Normal,Azul,01/11/2015,Floripa
+847,19,Promocional,Azul,25/11/2015,Vila Velha
+173,19,Promocional,Tam,30/12/2015,Fortaleza
+603,20,Promocional,Tam,03/01/2014,Fortaleza
+712,20,Normal,Tam,01/07/2014,Sao Paulo
+513,20,Promocional,Tam,15/08/2014,Porto Alegre
+478,20,Normal,Gol,10/10/2014,Rio
+992,20,Promocional,Tam,04/12/2014,Fortaleza
+375,20,Normal,Tam,19/12/2014,Belo Horizonte
+596,20,Normal,Azul,22/12/2014,Curitiba
+792,20,Normal,Gol,23/01/2015,Salvador
+221,20,Normal,Gol,09/02/2015,Manaus
+681,20,Normal,Gol,24/03/2015,Floripa
+795,20,Normal,Gol,25/03/2015,Floripa
+304,20,Promocional,Gol,14/05/2015,Curitiba
+138,20,Normal,Azul,11/06/2015,Porto Alegre
+970,20,Promocional,Gol,26/06/2015,Sao Paulo
+923,20,Promocional,Tam,19/07/2015,Porto Alegre
+106,20,Normal,Azul,01/10/2015,Porto Alegre
+540,20,Normal,Gol,03/11/2015,Belo Horizonte
+569,20,Promocional,Tam,04/12/2015,Bonito
+317,21,Promocional,Tam,10/01/2014,Manaus
+253,21,Promocional,Gol,17/01/2014,Floripa
+783,21,Normal,Azul,18/03/2014,Belo Horizonte
+337,21,Promocional,Azul,20/06/2014,Bonito
+30,21,Promocional,Azul,03/08/2014,Floripa
+217,21,Promocional,Tam,23/10/2014,Bonito
+450,21,Normal,Azul,11/11/2014,Porto Alegre
+888,21,Promocional,Azul,13/01/2015,Vila Velha
+704,21,Promocional,Azul,27/02/2015,Floripa
+591,21,Promocional,Tam,04/04/2015,Bonito
+963,21,Normal,Tam,20/05/2015,Porto Alegre
+398,21,Normal,Gol,22/05/2015,Belo Horizonte
+50,21,Normal,Gol,06/08/2015,Rio
+342,21,Promocional,Azul,12/08/2015,Floripa
+191,21,Promocional,Tam,20/08/2015,Curitiba
+633,21,Promocional,Azul,28/08/2015,Sao Paulo
+599,21,Normal,Azul,11/10/2015,Fortaleza
+950,21,Promocional,Tam,18/10/2015,Fortaleza
+250,21,Normal,Gol,29/10/2015,Salvador
+16,21,Normal,Gol,21/11/2015,Sao Paulo
+387,22,Normal,Gol,24/01/2014,Fortaleza
+208,22,Promocional,Azul,01/03/2014,Bonito
+526,22,Normal,Azul,13/03/2014,Salvador
+999,22,Promocional,Gol,12/05/2014,Vila Velha
+482,22,Normal,Gol,12/05/2014,Belo Horizonte
+585,22,Promocional,Azul,23/09/2014,Rio
+710,22,Promocional,Tam,12/10/2014,Bonito
+843,22,Promocional,Gol,04/01/2015,Vila Velha
+905,22,Promocional,Azul,11/02/2015,Curitiba
+99,22,Promocional,Gol,23/02/2015,Manaus
+941,22,Promocional,Azul,24/04/2015,Porto Alegre
+95,22,Promocional,Gol,17/06/2015,Manaus
+261,22,Promocional,Gol,27/12/2015,Fortaleza
+679,23,Normal,Gol,17/03/2014,Porto Alegre
+228,23,Normal,Tam,19/05/2014,Salvador
+214,23,Promocional,Tam,31/05/2014,Salvador
+94,23,Promocional,Tam,06/08/2014,Manaus
+493,23,Promocional,Tam,18/08/2014,Salvador
+103,23,Normal,Tam,14/01/2015,Sao Paulo
+931,23,Normal,Gol,15/04/2015,Curitiba
+351,23,Normal,Tam,21/04/2015,Vila Velha
+160,23,Normal,Tam,19/05/2015,Manaus
+732,23,Promocional,Azul,24/05/2015,Porto Alegre
+81,23,Normal,Tam,06/09/2015,Manaus
+631,23,Promocional,Gol,07/11/2015,Floripa
+594,24,Normal,Azul,24/01/2014,Porto Alegre
+464,24,Normal,Azul,07/05/2014,Rio
+400,24,Normal,Tam,23/07/2014,Porto Alegre
+496,24,Promocional,Tam,13/10/2014,Sao Paulo
+624,24,Normal,Gol,10/01/2015,Salvador
+951,24,Promocional,Gol,22/04/2015,Belo Horizonte
+708,24,Promocional,Gol,17/07/2015,Vila Velha
+1000,24,Normal,Tam,31/07/2015,Salvador
+79,24,Normal,Gol,31/07/2015,Manaus
+532,24,Normal,Gol,20/09/2015,Porto Alegre
+454,25,Normal,Tam,01/05/2014,Manaus
+864,25,Promocional,Azul,26/06/2014,Rio
+14,25,Normal,Tam,27/07/2014,Curitiba
+581,25,Normal,Gol,01/01/2015,Vila Velha
+290,25,Promocional,Gol,02/03/2015,Bonito
+903,25,Promocional,Gol,01/04/2015,Salvador
+673,25,Promocional,Tam,19/08/2015,Bonito
+928,25,Normal,Azul,27/08/2015,Curitiba
+642,25,Promocional,Azul,30/09/2015,Belo Horizonte
+873,26,Promocional,Gol,02/01/2014,Rio
+804,26,Normal,Azul,03/03/2014,Bonito
+984,26,Promocional,Azul,14/03/2014,Rio
+964,26,Normal,Azul,16/03/2014,Curitiba
+205,26,Normal,Tam,17/05/2014,Bonito
+743,26,Normal,Azul,09/06/2014,Vila Velha
+645,26,Normal,Gol,21/08/2014,Fortaleza
+212,26,Normal,Gol,26/08/2014,Porto Alegre
+162,26,Normal,Azul,29/08/2014,Belo Horizonte
+484,26,Promocional,Azul,30/11/2014,Bonito
+189,26,Normal,Azul,15/12/2014,Vila Velha
+360,26,Promocional,Tam,18/12/2014,Curitiba
+675,26,Normal,Tam,10/01/2015,Salvador
+413,26,Promocional,Gol,10/09/2015,Curitiba
+321,26,Promocional,Tam,22/12/2015,Salvador
+116,27,Promocional,Tam,02/04/2014,Vila Velha
+834,27,Promocional,Gol,04/09/2014,Salvador
+690,27,Promocional,Tam,25/10/2014,Fortaleza
+878,27,Normal,Tam,03/11/2014,Salvador
+715,27,Promocional,Azul,13/11/2014,Fortaleza
+767,27,Normal,Gol,27/11/2014,Belo Horizonte
+829,27,Normal,Gol,11/12/2014,Fortaleza
+824,27,Promocional,Azul,05/01/2015,Vila Velha
+867,27,Normal,Azul,02/03/2015,Rio
+757,27,Normal,Gol,30/05/2015,Manaus
+380,27,Promocional,Gol,10/06/2015,Belo Horizonte
+243,27,Normal,Gol,17/06/2015,Belo Horizonte
+965,27,Normal,Azul,13/09/2015,Porto Alegre
+122,27,Normal,Gol,19/11/2015,Porto Alegre
+910,27,Normal,Azul,27/11/2015,Belo Horizonte
+202,28,Normal,Azul,16/01/2014,Bonito
+865,28,Normal,Gol,06/02/2014,Belo Horizonte
+255,28,Promocional,Tam,20/02/2014,Sao Paulo
+531,28,Promocional,Tam,24/05/2014,Curitiba
+613,28,Normal,Azul,28/06/2014,Curitiba
+139,28,Normal,Gol,14/07/2014,Floripa
+234,28,Normal,Tam,13/08/2014,Floripa
+145,28,Normal,Tam,21/08/2014,Belo Horizonte
+723,28,Normal,Tam,24/09/2014,Salvador
+872,28,Promocional,Azul,05/10/2014,Bonito
+612,28,Normal,Azul,12/10/2014,Sao Paulo
+606,28,Promocional,Azul,18/01/2015,Rio
+384,28,Promocional,Tam,08/04/2015,Bonito
+604,28,Promocional,Tam,03/08/2015,Rio
+314,28,Normal,Tam,01/12/2015,Rio
+152,28,Promocional,Azul,27/12/2015,Manaus
+20,29,Normal,Tam,21/04/2014,Salvador
+515,29,Promocional,Tam,21/07/2014,Salvador
+264,29,Normal,Tam,08/11/2014,Belo Horizonte
+345,29,Promocional,Gol,04/12/2014,Manaus
+127,29,Normal,Gol,10/01/2015,Salvador
+926,29,Normal,Tam,04/02/2015,Sao Paulo
+848,29,Promocional,Azul,18/02/2015,Curitiba
+745,29,Promocional,Gol,23/03/2015,Rio
+327,29,Promocional,Azul,04/06/2015,Rio
+126,29,Normal,Tam,15/07/2015,Belo Horizonte
+105,29,Normal,Tam,22/07/2015,Salvador
+267,29,Normal,Tam,13/08/2015,Bonito
+258,29,Normal,Tam,31/08/2015,Sao Paulo
+807,29,Promocional,Tam,27/09/2015,Salvador
+59,30,Promocional,Azul,08/04/2014,Belo Horizonte
+259,30,Normal,Gol,20/04/2014,Vila Velha
+850,30,Normal,Gol,29/04/2014,Salvador
+752,30,Promocional,Tam,30/04/2014,Manaus
+805,30,Promocional,Gol,04/05/2014,Salvador
+364,30,Promocional,Gol,05/05/2014,Vila Velha
+374,30,Normal,Gol,22/06/2014,Manaus
+790,30,Normal,Gol,06/07/2014,Salvador
+623,30,Promocional,Azul,29/12/2014,Porto Alegre
+240,30,Normal,Tam,25/01/2015,Porto Alegre
+740,30,Promocional,Gol,28/02/2015,Rio
+483,30,Promocional,Gol,09/04/2015,Bonito
+479,30,Normal,Gol,11/06/2015,Vila Velha
+643,30,Promocional,Azul,01/07/2015,Rio
+429,30,Promocional,Tam,30/07/2015,Porto Alegre
+969,30,Promocional,Tam,18/08/2015,Manaus
+998,30,Normal,Azul,17/10/2015,Belo Horizonte
+440,30,Promocional,Tam,31/10/2015,Curitiba
+57,30,Normal,Tam,17/11/2015,Belo Horizonte
+808,30,Promocional,Gol,07/12/2015,Fortaleza
+548,31,Normal,Gol,11/02/2014,Bonito
+204,31,Normal,Gol,29/03/2014,Salvador
+449,31,Normal,Azul,13/05/2014,Rio
+465,31,Normal,Tam,08/06/2014,Vila Velha
+810,31,Promocional,Azul,22/06/2014,Sao Paulo
+444,31,Normal,Azul,26/08/2014,Sao Paulo
+750,31,Normal,Gol,04/09/2014,Sao Paulo
+924,31,Normal,Gol,10/11/2014,Manaus
+238,31,Promocional,Azul,16/11/2014,Rio
+433,31,Normal,Azul,26/11/2014,Rio
+185,31,Promocional,Gol,28/11/2014,Bonito
+286,31,Promocional,Tam,06/12/2014,Vila Velha
+812,31,Promocional,Tam,27/01/2015,Salvador
+325,31,Normal,Gol,14/02/2015,Vila Velha
+26,31,Normal,Gol,11/08/2015,Porto Alegre
+736,31,Promocional,Tam,09/09/2015,Porto Alegre
+328,31,Normal,Tam,17/09/2015,Sao Paulo
+590,31,Normal,Tam,06/11/2015,Salvador
+771,31,Normal,Gol,18/11/2015,Salvador
+104,32,Normal,Tam,23/01/2014,Porto Alegre
+929,32,Normal,Azul,17/02/2014,Floripa
+73,32,Promocional,Tam,26/05/2014,Vila Velha
+190,32,Normal,Tam,20/09/2014,Sao Paulo
+313,32,Normal,Tam,18/11/2014,Porto Alegre
+210,32,Normal,Gol,28/02/2015,Salvador
+235,32,Normal,Gol,07/03/2015,Belo Horizonte
+331,32,Normal,Tam,05/06/2015,Manaus
+297,32,Promocional,Azul,26/10/2015,Sao Paulo
+747,33,Normal,Gol,16/02/2014,Salvador
+485,33,Promocional,Tam,04/03/2014,Sao Paulo
+2,33,Promocional,Gol,21/03/2014,Fortaleza
+292,33,Normal,Gol,29/03/2014,Floripa
+356,33,Normal,Azul,24/05/2014,Vila Velha
+466,33,Normal,Azul,25/06/2014,Floripa
+909,33,Promocional,Azul,22/10/2014,Floripa
+367,33,Normal,Azul,11/02/2015,Salvador
+530,33,Promocional,Gol,24/02/2015,Manaus
+492,33,Promocional,Tam,22/05/2015,Porto Alegre
+137,33,Normal,Tam,14/11/2015,Sao Paulo
+879,34,Promocional,Azul,23/10/2014,Bonito
+709,34,Promocional,Azul,27/10/2014,Manaus
+597,34,Promocional,Gol,16/03/2015,Vila Velha
+198,34,Normal,Azul,20/06/2015,Sao Paulo
+576,34,Promocional,Azul,28/07/2015,Sao Paulo
+206,35,Promocional,Tam,10/05/2014,Salvador
+397,35,Promocional,Gol,04/06/2014,Porto Alegre
+289,35,Normal,Tam,21/08/2014,Floripa
+425,35,Normal,Azul,27/11/2014,Bonito
+863,35,Promocional,Azul,23/01/2015,Fortaleza
+322,35,Normal,Tam,30/04/2015,Fortaleza
+991,35,Promocional,Gol,01/05/2015,Curitiba
+242,35,Normal,Gol,21/07/2015,Rio
+621,35,Normal,Gol,11/09/2015,Vila Velha
+33,35,Promocional,Azul,21/10/2015,Belo Horizonte
+177,35,Normal,Gol,09/12/2015,Fortaleza
+967,35,Normal,Tam,26/12/2015,Floripa
+174,36,Normal,Azul,10/01/2014,Manaus
+989,36,Promocional,Azul,20/02/2014,Curitiba
+506,36,Normal,Azul,21/04/2014,Belo Horizonte
+469,36,Promocional,Tam,22/04/2014,Bonito
+979,36,Normal,Gol,16/07/2014,Sao Paulo
+182,36,Normal,Gol,26/08/2014,Sao Paulo
+8,36,Promocional,Azul,13/02/2015,Bonito
+546,36,Normal,Gol,04/03/2015,Vila Velha
+268,36,Promocional,Tam,19/05/2015,Belo Horizonte
+813,36,Promocional,Tam,15/06/2015,Sao Paulo
+510,36,Promocional,Gol,23/06/2015,Porto Alegre
+817,36,Normal,Tam,27/06/2015,Rio
+914,36,Normal,Gol,10/10/2015,Porto Alegre
+117,36,Normal,Azul,20/12/2015,Fortaleza
+311,37,Promocional,Gol,05/02/2014,Belo Horizonte
+942,37,Normal,Tam,10/02/2014,Sao Paulo
+25,37,Promocional,Tam,02/05/2014,Belo Horizonte
+183,37,Promocional,Gol,16/06/2014,Belo Horizonte
+819,37,Promocional,Azul,30/07/2014,Sao Paulo
+488,37,Normal,Tam,23/10/2014,Bonito
+121,37,Promocional,Azul,24/10/2014,Salvador
+112,37,Promocional,Azul,28/10/2014,Curitiba
+777,37,Normal,Azul,01/11/2014,Salvador
+579,37,Promocional,Gol,19/12/2014,Belo Horizonte
+445,37,Promocional,Tam,28/12/2014,Floripa
+831,37,Promocional,Azul,16/01/2015,Curitiba
+463,37,Promocional,Azul,29/01/2015,Salvador
+638,37,Normal,Gol,18/02/2015,Belo Horizonte
+348,37,Normal,Gol,05/06/2015,Sao Paulo
+851,37,Normal,Azul,02/08/2015,Salvador
+365,37,Promocional,Azul,14/10/2015,Vila Velha
+416,38,Promocional,Azul,04/02/2014,Fortaleza
+646,38,Promocional,Gol,25/03/2014,Vila Velha
+686,38,Normal,Azul,14/05/2014,Sao Paulo
+505,38,Normal,Gol,26/05/2014,Vila Velha
+232,38,Promocional,Tam,06/06/2014,Bonito
+481,38,Normal,Tam,09/06/2014,Bonito
+575,38,Normal,Tam,21/10/2014,Fortaleza
+968,38,Normal,Azul,12/11/2014,Curitiba
+891,38,Normal,Gol,14/12/2014,Curitiba
+124,38,Normal,Tam,09/01/2015,Fortaleza
+938,38,Normal,Azul,07/04/2015,Floripa
+427,38,Promocional,Tam,13/06/2015,Salvador
+167,38,Normal,Tam,28/11/2015,Salvador
+680,38,Promocional,Azul,20/12/2015,Manaus
+457,39,Normal,Azul,05/04/2014,Salvador
+396,39,Promocional,Azul,01/05/2014,Porto Alegre
+412,39,Normal,Tam,06/07/2014,Porto Alegre
+930,39,Promocional,Tam,20/08/2014,Vila Velha
+441,39,Normal,Tam,30/10/2014,Floripa
+738,39,Normal,Tam,18/04/2015,Floripa
+307,39,Promocional,Gol,21/07/2015,Fortaleza
+731,39,Promocional,Tam,02/12/2015,Rio
+188,39,Normal,Gol,02/12/2015,Rio
+858,39,Promocional,Tam,06/12/2015,Belo Horizonte
+918,40,Normal,Azul,03/01/2014,Porto Alegre
+814,40,Promocional,Gol,01/02/2014,Curitiba
+3,40,Normal,Tam,18/03/2014,Belo Horizonte
+424,40,Normal,Azul,15/04/2014,Rio
+19,40,Normal,Gol,25/04/2014,Vila Velha
+436,40,Normal,Azul,26/04/2014,Salvador
+756,40,Promocional,Azul,14/08/2014,Rio
+701,40,Promocional,Tam,04/09/2014,Manaus
+833,40,Promocional,Azul,11/10/2014,Floripa
+129,40,Promocional,Gol,20/11/2014,Fortaleza
+906,40,Normal,Tam,03/02/2015,Porto Alegre
+366,40,Promocional,Gol,28/07/2015,Belo Horizonte
+346,40,Normal,Tam,24/11/2015,Curitiba
+414,41,Normal,Gol,04/03/2014,Curitiba
+437,41,Promocional,Tam,10/04/2014,Salvador
+233,41,Normal,Tam,08/05/2014,Bonito
+21,41,Promocional,Tam,26/06/2014,Manaus
+828,41,Promocional,Tam,12/10/2014,Salvador
+955,41,Normal,Tam,18/01/2015,Floripa
+401,41,Normal,Azul,31/01/2015,Porto Alegre
+780,41,Promocional,Azul,18/02/2015,Bonito
+153,41,Promocional,Gol,04/06/2015,Curitiba
+714,41,Normal,Azul,17/07/2015,Porto Alegre
+63,41,Normal,Tam,18/10/2015,Fortaleza
+639,42,Promocional,Tam,22/01/2014,Fortaleza
+320,42,Normal,Azul,10/04/2014,Manaus
+334,42,Promocional,Gol,12/04/2014,Manaus
+608,42,Normal,Azul,10/06/2014,Bonito
+195,42,Promocional,Azul,24/06/2014,Salvador
+614,42,Promocional,Azul,11/08/2014,Bonito
+877,42,Normal,Azul,15/09/2014,Sao Paulo
+439,42,Promocional,Azul,12/11/2014,Belo Horizonte
+151,42,Promocional,Tam,06/02/2015,Belo Horizonte
+890,42,Normal,Tam,22/03/2015,Manaus
+900,42,Promocional,Tam,24/07/2015,Fortaleza
+147,42,Promocional,Azul,29/08/2015,Manaus
+410,42,Normal,Azul,04/10/2015,Salvador
+76,42,Normal,Tam,24/12/2015,Sao Paulo
+889,43,Promocional,Tam,09/04/2014,Belo Horizonte
+31,43,Normal,Azul,15/04/2014,Porto Alegre
+920,43,Normal,Gol,11/05/2014,Manaus
+499,43,Promocional,Gol,27/06/2014,Rio
+654,43,Promocional,Tam,07/09/2014,Manaus
+976,43,Promocional,Tam,16/09/2014,Sao Paulo
+318,43,Promocional,Tam,25/10/2014,Curitiba
+727,43,Normal,Azul,22/12/2014,Bonito
+922,43,Normal,Azul,06/01/2015,Rio
+871,43,Promocional,Gol,03/02/2015,Fortaleza
+90,43,Promocional,Azul,22/04/2015,Porto Alegre
+650,43,Normal,Tam,09/06/2015,Porto Alegre
+556,43,Normal,Tam,13/07/2015,Belo Horizonte
+620,43,Normal,Gol,19/09/2015,Porto Alegre
+669,43,Normal,Gol,22/09/2015,Rio
+409,43,Normal,Gol,20/10/2015,Porto Alegre
+698,44,Promocional,Azul,01/04/2014,Rio
+368,44,Promocional,Azul,21/07/2014,Fortaleza
+236,44,Promocional,Gol,05/08/2014,Bonito
+975,44,Promocional,Gol,16/08/2014,Floripa
+279,44,Normal,Tam,08/09/2014,Bonito
+565,44,Promocional,Tam,17/01/2015,Belo Horizonte
+985,44,Promocional,Gol,19/02/2015,Bonito
+825,44,Normal,Gol,06/04/2015,Rio
+420,44,Promocional,Azul,29/06/2015,Porto Alegre
+571,44,Promocional,Azul,30/09/2015,Vila Velha
+4,44,Promocional,Azul,09/12/2015,Curitiba
+223,45,Normal,Tam,18/01/2014,Floripa
+962,45,Normal,Azul,15/03/2014,Salvador
+557,45,Normal,Tam,27/03/2014,Rio
+428,45,Normal,Azul,02/06/2014,Vila Velha
+586,45,Normal,Gol,02/06/2014,Vila Velha
+434,45,Normal,Tam,15/08/2014,Sao Paulo
+10,45,Promocional,Gol,02/09/2014,Manaus
+330,45,Promocional,Azul,09/10/2014,Belo Horizonte
+349,45,Normal,Gol,20/10/2014,Rio
+758,45,Promocional,Tam,23/11/2014,Belo Horizonte
+774,45,Promocional,Tam,31/12/2014,Bonito
+135,45,Promocional,Azul,05/02/2015,Belo Horizonte
+615,45,Promocional,Azul,21/02/2015,Bonito
+912,45,Normal,Tam,27/04/2015,Vila Velha
+916,45,Normal,Gol,11/05/2015,Bonito
+703,45,Promocional,Gol,18/06/2015,Bonito
+718,45,Normal,Gol,15/07/2015,Salvador
+17,45,Normal,Gol,27/07/2015,Vila Velha
+728,45,Promocional,Azul,17/12/2015,Sao Paulo
+136,46,Promocional,Azul,06/01/2014,Vila Velha
+283,46,Promocional,Azul,06/02/2014,Vila Velha
+595,46,Promocional,Tam,06/05/2014,Bonito
+276,46,Promocional,Tam,06/05/2014,Fortaleza
+287,46,Normal,Gol,14/07/2014,Sao Paulo
+902,46,Normal,Gol,28/08/2014,Sao Paulo
+527,46,Promocional,Gol,07/09/2014,Floripa
+487,46,Normal,Azul,07/10/2014,Sao Paulo
+600,46,Promocional,Gol,10/12/2014,Rio
+725,46,Normal,Tam,10/12/2014,Fortaleza
+716,46,Promocional,Tam,19/06/2015,Salvador
+119,46,Promocional,Tam,18/07/2015,Curitiba
+840,46,Promocional,Tam,21/08/2015,Manaus
+498,46,Normal,Tam,04/09/2015,Salvador
+861,46,Promocional,Gol,23/12/2015,Fortaleza
+171,47,Normal,Azul,16/04/2014,Sao Paulo
+839,47,Promocional,Tam,25/04/2014,Bonito
+990,47,Normal,Gol,24/07/2014,Manaus
+748,47,Promocional,Tam,27/09/2014,Manaus
+82,47,Normal,Gol,09/12/2014,Manaus
+341,47,Promocional,Gol,16/03/2015,Belo Horizonte
+66,47,Promocional,Gol,20/04/2015,Salvador
+391,47,Normal,Gol,01/05/2015,Belo Horizonte
+609,47,Normal,Gol,15/05/2015,Floripa
+271,47,Promocional,Azul,31/05/2015,Porto Alegre
+564,47,Normal,Azul,01/07/2015,Rio
+859,47,Promocional,Tam,06/07/2015,Floripa
+458,47,Normal,Azul,28/08/2015,Fortaleza
+312,47,Normal,Gol,09/09/2015,Belo Horizonte
+647,47,Normal,Azul,18/10/2015,Salvador
+644,47,Promocional,Gol,27/10/2015,Belo Horizonte
+628,48,Normal,Azul,22/02/2014,Floripa
+141,48,Promocional,Tam,17/05/2014,Belo Horizonte
+192,48,Promocional,Azul,15/09/2014,Fortaleza
+801,48,Normal,Azul,05/10/2014,Floripa
+265,48,Normal,Gol,07/12/2014,Belo Horizonte
+956,48,Promocional,Gol,25/02/2015,Vila Velha
+130,48,Promocional,Tam,16/04/2015,Curitiba
+547,48,Normal,Gol,27/06/2015,Floripa
+503,49,Promocional,Gol,13/01/2014,Bonito
+101,49,Normal,Azul,09/04/2014,Salvador
+72,49,Promocional,Tam,28/09/2014,Rio
+473,49,Promocional,Tam,29/09/2014,Curitiba
+529,49,Promocional,Tam,15/10/2014,Curitiba
+181,49,Promocional,Gol,29/01/2015,Manaus
+835,49,Promocional,Gol,19/02/2015,Porto Alegre
+561,49,Normal,Gol,12/03/2015,Curitiba
+402,49,Promocional,Gol,08/04/2015,Belo Horizonte
+263,49,Normal,Azul,23/04/2015,Belo Horizonte
+347,49,Normal,Gol,04/05/2015,Fortaleza
+140,49,Promocional,Gol,06/05/2015,Curitiba
+553,49,Promocional,Azul,04/06/2015,Bonito
+734,49,Normal,Gol,19/09/2015,Curitiba
+857,49,Normal,Tam,08/10/2015,Manaus
+443,49,Promocional,Tam,18/11/2015,Manaus
+336,49,Normal,Tam,18/12/2015,Belo Horizonte
+711,49,Promocional,Tam,29/12/2015,Salvador
+651,50,Promocional,Tam,23/04/2014,Sao Paulo
+683,50,Promocional,Tam,28/04/2014,Vila Velha
+611,50,Normal,Gol,02/05/2014,Floripa
+343,50,Promocional,Gol,13/05/2014,Manaus
+760,50,Promocional,Azul,16/06/2014,Floripa
+755,50,Promocional,Gol,29/06/2014,Manaus
+324,50,Promocional,Azul,13/07/2014,Floripa
+688,50,Promocional,Gol,15/08/2014,Salvador
+51,50,Promocional,Gol,04/10/2014,Belo Horizonte
+946,50,Normal,Tam,16/04/2015,Rio
+275,50,Promocional,Tam,13/05/2015,Salvador
+37,50,Promocional,Tam,30/06/2015,Porto Alegre
+187,50,Normal,Tam,20/08/2015,Salvador
+61,50,Normal,Tam,27/08/2015,Belo Horizonte
+830,50,Normal,Tam,03/11/2015,Floripa
+89,50,Normal,Tam,16/12/2015,Vila Velha
+788,51,Normal,Azul,15/01/2014,Rio
+193,51,Promocional,Azul,20/02/2014,Vila Velha
+781,51,Promocional,Tam,18/03/2014,Porto Alegre
+284,51,Normal,Tam,10/06/2014,Curitiba
+988,51,Promocional,Azul,11/07/2014,Belo Horizonte
+24,51,Normal,Azul,24/09/2014,Sao Paulo
+1,51,Promocional,Gol,05/11/2014,Sao Paulo
+461,51,Promocional,Tam,03/12/2014,Floripa
+447,51,Promocional,Gol,29/12/2014,Bonito
+636,51,Promocional,Gol,18/01/2015,Floripa
+369,51,Normal,Azul,30/03/2015,Vila Velha
+333,51,Normal,Azul,10/04/2015,Sao Paulo
+163,51,Normal,Gol,02/06/2015,Sao Paulo
+186,51,Normal,Azul,24/09/2015,Fortaleza
+798,51,Promocional,Tam,15/12/2015,Bonito
+766,52,Normal,Azul,05/03/2014,Floripa
+335,52,Normal,Azul,27/03/2014,Floripa
+862,52,Promocional,Tam,14/09/2014,Fortaleza
+516,52,Normal,Azul,26/10/2014,Vila Velha
+156,52,Normal,Gol,14/11/2014,Salvador
+285,52,Promocional,Azul,05/01/2015,Salvador
+134,52,Normal,Tam,03/03/2015,Porto Alegre
+184,52,Normal,Azul,17/03/2015,Floripa
+249,52,Normal,Tam,23/03/2015,Fortaleza
+666,52,Normal,Tam,25/03/2015,Porto Alegre
+635,52,Promocional,Tam,06/07/2015,Porto Alegre
+229,52,Promocional,Azul,02/09/2015,Belo Horizonte
+69,52,Promocional,Gol,28/09/2015,Rio
+5,52,Promocional,Gol,12/10/2015,Curitiba
+197,52,Promocional,Azul,11/11/2015,Vila Velha
+947,53,Promocional,Gol,17/09/2014,Sao Paulo
+128,53,Normal,Tam,17/09/2014,Manaus
+649,53,Promocional,Azul,09/12/2014,Belo Horizonte
+616,53,Promocional,Gol,12/12/2014,Floripa
+298,53,Normal,Azul,13/12/2014,Belo Horizonte
+980,53,Normal,Tam,23/12/2014,Rio
+74,53,Promocional,Tam,21/01/2015,Belo Horizonte
+741,53,Promocional,Gol,24/02/2015,Curitiba
+883,53,Promocional,Tam,18/03/2015,Fortaleza
+323,53,Normal,Gol,20/03/2015,Sao Paulo
+520,53,Normal,Gol,23/04/2015,Porto Alegre
+100,53,Promocional,Tam,29/04/2015,Bonito
+354,53,Normal,Tam,15/05/2015,Floripa
+222,53,Normal,Azul,19/12/2015,Curitiba
+521,54,Normal,Gol,07/03/2014,Salvador
+797,54,Promocional,Gol,05/04/2014,Sao Paulo
+713,54,Normal,Gol,18/06/2014,Rio
+363,54,Normal,Tam,05/09/2014,Salvador
+543,54,Normal,Tam,24/12/2014,Vila Velha
+550,54,Normal,Gol,08/02/2015,Porto Alegre
+949,54,Promocional,Gol,01/06/2015,Salvador
+974,54,Promocional,Tam,08/06/2015,Bonito
+389,54,Normal,Azul,30/10/2015,Vila Velha
+987,54,Promocional,Azul,12/11/2015,Bonito
+629,54,Normal,Tam,29/11/2015,Floripa
+800,55,Promocional,Tam,04/02/2014,Curitiba
+254,55,Promocional,Tam,04/08/2014,Sao Paulo
+406,55,Promocional,Tam,04/08/2014,Porto Alegre
+411,55,Normal,Gol,06/08/2014,Porto Alegre
+62,55,Normal,Azul,15/12/2014,Vila Velha
+169,55,Normal,Tam,26/06/2015,Floripa
+370,55,Promocional,Azul,10/09/2015,Porto Alegre
+762,55,Promocional,Azul,04/12/2015,Vila Velha
+142,56,Promocional,Gol,13/02/2014,Fortaleza
+131,56,Promocional,Gol,16/08/2014,Rio
+352,56,Promocional,Gol,18/09/2014,Curitiba
+272,56,Promocional,Tam,05/10/2014,Floripa
+653,56,Normal,Azul,30/01/2015,Vila Velha
+509,56,Normal,Gol,06/02/2015,Rio
+419,56,Normal,Gol,10/03/2015,Belo Horizonte
+301,56,Normal,Tam,31/03/2015,Porto Alegre
+822,56,Normal,Gol,15/05/2015,Salvador
+15,56,Normal,Gol,23/07/2015,Bonito
+827,56,Normal,Gol,02/09/2015,Floripa
+765,56,Promocional,Tam,23/12/2015,Rio
+917,57,Normal,Gol,29/04/2014,Curitiba
+884,57,Promocional,Gol,07/06/2014,Fortaleza
+778,57,Normal,Gol,24/11/2014,Fortaleza
+257,57,Promocional,Azul,11/03/2015,Belo Horizonte
+836,57,Normal,Gol,26/06/2015,Rio
+155,57,Promocional,Azul,16/08/2015,Manaus
+87,57,Normal,Azul,29/08/2015,Vila Velha
+52,57,Normal,Azul,09/09/2015,Salvador
+578,57,Normal,Tam,02/11/2015,Floripa
+869,58,Normal,Azul,27/02/2014,Bonito
+671,58,Promocional,Tam,11/03/2014,Fortaleza
+717,58,Normal,Gol,24/04/2014,Sao Paulo
+362,58,Normal,Tam,03/05/2014,Salvador
+38,58,Normal,Azul,10/05/2014,Belo Horizonte
+524,58,Promocional,Azul,15/05/2014,Belo Horizonte
+282,58,Promocional,Gol,17/09/2014,Belo Horizonte
+994,58,Promocional,Gol,08/01/2015,Vila Velha
+421,58,Promocional,Azul,31/03/2015,Vila Velha
+660,58,Normal,Tam,21/06/2015,Sao Paulo
+315,58,Promocional,Tam,08/08/2015,Curitiba
+6,58,Normal,Gol,29/08/2015,Belo Horizonte
+535,58,Normal,Azul,11/09/2015,Curitiba
+316,58,Promocional,Tam,22/09/2015,Salvador
+18,59,Promocional,Azul,03/01/2014,Curitiba
+372,59,Normal,Gol,17/01/2014,Sao Paulo
+460,59,Promocional,Tam,26/01/2014,Salvador
+357,59,Normal,Gol,02/02/2014,Curitiba
+225,59,Normal,Gol,07/02/2014,Salvador
+451,59,Normal,Azul,07/03/2014,Fortaleza
+417,59,Promocional,Tam,01/05/2014,Salvador
+154,59,Normal,Gol,02/09/2014,Fortaleza
+133,59,Normal,Azul,22/01/2015,Porto Alegre
+618,59,Normal,Tam,25/02/2015,Floripa
+55,59,Normal,Gol,09/05/2015,Rio
+93,59,Normal,Tam,25/07/2015,Belo Horizonte
+880,59,Promocional,Tam,05/09/2015,Rio
+230,59,Normal,Tam,29/09/2015,Vila Velha
+764,59,Promocional,Azul,19/10/2015,Vila Velha
+88,59,Normal,Tam,13/12/2015,Fortaleza
+694,60,Promocional,Gol,04/01/2014,Porto Alegre
+215,60,Promocional,Gol,15/02/2014,Vila Velha
+573,60,Promocional,Gol,15/02/2014,Belo Horizonte
+935,60,Promocional,Gol,08/03/2014,Vila Velha
+551,60,Normal,Azul,17/03/2014,Curitiba
+22,60,Promocional,Gol,24/03/2014,Fortaleza
+442,60,Normal,Gol,14/04/2014,Fortaleza
+779,60,Normal,Azul,18/06/2014,Floripa
+838,60,Normal,Azul,25/06/2014,Vila Velha
+622,60,Promocional,Gol,26/06/2014,Curitiba
+46,60,Normal,Tam,27/06/2014,Floripa
+123,60,Normal,Gol,18/09/2014,Sao Paulo
+159,60,Promocional,Azul,18/12/2014,Rio
+720,60,Promocional,Gol,20/02/2015,Fortaleza
+201,60,Normal,Azul,08/03/2015,Rio
+456,60,Normal,Azul,17/10/2015,Sao Paulo
+86,61,Normal,Tam,19/11/2014,Floripa
+47,61,Normal,Tam,27/11/2014,Curitiba
+730,61,Promocional,Azul,12/08/2015,Porto Alegre
+534,61,Promocional,Tam,17/10/2015,Fortaleza
+111,61,Promocional,Tam,01/11/2015,Fortaleza
+110,61,Promocional,Tam,26/11/2015,Rio
+390,61,Promocional,Gol,25/12/2015,Curitiba
+470,62,Normal,Gol,09/05/2014,Vila Velha
+68,62,Normal,Azul,26/05/2014,Bonito
+789,62,Promocional,Azul,15/06/2014,Salvador
+978,62,Normal,Gol,21/06/2014,Rio
+392,62,Normal,Gol,20/11/2014,Vila Velha
+480,62,Promocional,Gol,30/11/2014,Curitiba
+199,62,Promocional,Gol,11/02/2015,Porto Alegre
+446,62,Promocional,Azul,01/05/2015,Fortaleza
+296,62,Normal,Gol,15/06/2015,Bonito
+539,62,Promocional,Tam,18/07/2015,Belo Horizonte
+455,62,Normal,Azul,04/12/2015,Vila Velha
+821,62,Normal,Azul,11/12/2015,Fortaleza
+574,63,Normal,Azul,23/03/2014,Vila Velha
+319,63,Promocional,Tam,11/04/2014,Manaus
+697,63,Normal,Gol,03/05/2014,Bonito
+874,63,Promocional,Azul,21/06/2014,Rio
+231,63,Promocional,Tam,16/07/2014,Bonito
+899,63,Normal,Tam,30/07/2014,Sao Paulo
+691,63,Normal,Gol,27/08/2014,Sao Paulo
+784,63,Normal,Gol,01/09/2014,Salvador
+664,63,Promocional,Gol,18/11/2014,Rio
+953,63,Normal,Tam,19/05/2015,Belo Horizonte
+952,63,Normal,Gol,01/06/2015,Manaus
+689,63,Promocional,Gol,05/06/2015,Belo Horizonte
+674,63,Normal,Gol,23/07/2015,Porto Alegre
+525,63,Promocional,Gol,29/08/2015,Vila Velha
+983,63,Normal,Azul,04/09/2015,Belo Horizonte
+266,63,Normal,Azul,22/09/2015,Vila Velha
+802,63,Promocional,Tam,03/10/2015,Manaus
+431,63,Promocional,Gol,29/12/2015,Manaus
+744,64,Normal,Tam,02/01/2014,Belo Horizonte
+522,64,Promocional,Azul,03/02/2014,Belo Horizonte
+462,64,Promocional,Azul,13/03/2014,Porto Alegre
+84,64,Normal,Tam,07/06/2014,Salvador
+944,64,Promocional,Tam,29/06/2014,Fortaleza
+954,64,Normal,Tam,01/07/2014,Rio
+519,64,Normal,Tam,21/09/2014,Vila Velha
+438,64,Promocional,Gol,29/10/2014,Belo Horizonte
+358,64,Promocional,Tam,09/12/2014,Belo Horizonte
+200,64,Normal,Azul,22/12/2014,Floripa
+213,64,Promocional,Azul,02/01/2015,Fortaleza
+842,64,Normal,Tam,24/03/2015,Curitiba
+168,64,Normal,Gol,07/05/2015,Porto Alegre
+627,64,Normal,Tam,08/05/2015,Manaus
+28,64,Normal,Tam,05/07/2015,Belo Horizonte
+44,64,Normal,Azul,02/11/2015,Salvador
+855,65,Promocional,Tam,07/05/2014,Fortaleza
+667,65,Promocional,Azul,21/05/2014,Floripa
+625,65,Promocional,Tam,17/07/2014,Rio
+786,65,Promocional,Tam,20/08/2014,Bonito
+866,65,Normal,Gol,25/11/2014,Salvador
+472,65,Promocional,Tam,07/07/2015,Floripa
+280,65,Promocional,Tam,14/12/2015,Bonito
+677,66,Promocional,Azul,02/06/2014,Rio
+102,66,Promocional,Gol,20/12/2014,Manaus
+592,66,Normal,Tam,02/04/2015,Vila Velha
+143,66,Promocional,Gol,14/05/2015,Vila Velha
+787,66,Normal,Tam,04/06/2015,Vila Velha
+150,66,Promocional,Tam,11/06/2015,Salvador
+511,66,Promocional,Azul,05/10/2015,Sao Paulo
+379,66,Normal,Azul,08/10/2015,Floripa
+262,66,Promocional,Tam,27/10/2015,Fortaleza
+291,66,Promocional,Azul,16/11/2015,Manaus
+1001,66,Normal,adasd,25/12/2015,dsadas
+1002,66,Normal,adasd,25/12/2016,dasdsa
+726,67,Normal,Gol,23/03/2014,Floripa
+846,67,Promocional,Tam,25/03/2014,Manaus
+552,67,Promocional,Azul,17/04/2014,Curitiba
+41,67,Normal,Gol,20/04/2014,Sao Paulo
+490,67,Normal,Gol,24/08/2014,Curitiba
+299,67,Normal,Azul,27/08/2014,Bonito
+893,67,Normal,Tam,19/09/2014,Belo Horizonte
+849,67,Promocional,Gol,08/10/2014,Sao Paulo
+948,67,Promocional,Tam,11/10/2014,Fortaleza
+886,67,Promocional,Azul,04/12/2014,Sao Paulo
+70,67,Normal,Azul,23/12/2014,Curitiba
+761,67,Promocional,Gol,06/01/2015,Rio
+791,67,Promocional,Tam,05/03/2015,Bonito
+676,67,Normal,Azul,09/03/2015,Sao Paulo
+685,67,Normal,Tam,14/04/2015,Fortaleza
+706,67,Normal,Tam,20/05/2015,Porto Alegre
+719,67,Promocional,Tam,17/07/2015,Floripa
+404,67,Promocional,Gol,13/09/2015,Porto Alegre
+107,67,Promocional,Azul,23/10/2015,Fortaleza
+961,67,Promocional,Azul,31/12/2015,Fortaleza
+97,68,Normal,Tam,05/01/2014,Porto Alegre
+844,68,Promocional,Gol,14/08/2014,Rio
+108,68,Normal,Tam,05/11/2014,Vila Velha
+40,68,Promocional,Azul,05/12/2014,Fortaleza
+92,68,Normal,Gol,26/12/2014,Rio
+175,68,Promocional,Gol,20/02/2015,Belo Horizonte
+67,68,Normal,Tam,14/06/2015,Belo Horizonte
+560,68,Promocional,Azul,23/09/2015,Fortaleza
+477,69,Promocional,Tam,08/01/2014,Vila Velha
+248,69,Promocional,Azul,01/02/2014,Manaus
+945,69,Normal,Tam,04/04/2014,Rio
+754,69,Promocional,Gol,05/11/2014,Curitiba
+157,69,Promocional,Gol,04/01/2015,Fortaleza
+148,69,Normal,Gol,24/01/2015,Rio
+746,69,Normal,Azul,14/02/2015,Vila Velha
+737,69,Promocional,Gol,21/03/2015,Floripa
+371,69,Promocional,Tam,25/03/2015,Sao Paulo
+823,69,Normal,Gol,11/09/2015,Salvador
+837,69,Normal,Gol,12/10/2015,Fortaleza
+803,69,Normal,Tam,31/12/2015,Sao Paulo
+882,70,Normal,Tam,25/02/2014,Manaus
+71,70,Promocional,Azul,12/03/2014,Rio
+274,70,Normal,Tam,24/06/2014,Vila Velha
+393,70,Promocional,Azul,23/09/2014,Floripa
+655,70,Promocional,Azul,26/09/2014,Porto Alegre
+9,70,Normal,Gol,16/01/2015,Curitiba
+452,70,Normal,Gol,26/02/2015,Manaus
+468,70,Promocional,Gol,21/06/2015,Floripa
+495,70,Normal,Tam,06/08/2015,Belo Horizonte
+682,70,Promocional,Gol,31/10/2015,Fortaleza
+34,70,Normal,Azul,20/11/2015,Fortaleza
+435,71,Promocional,Azul,01/01/2014,Fortaleza
+432,71,Promocional,Azul,09/02/2014,Fortaleza
+619,71,Normal,Tam,10/05/2014,Curitiba
+29,71,Promocional,Gol,16/02/2015,Porto Alegre
+699,71,Promocional,Azul,02/03/2015,Manaus
+120,71,Normal,Azul,17/07/2015,Porto Alegre
+329,72,Normal,Tam,10/01/2014,Rio
+500,72,Normal,Tam,17/01/2014,Fortaleza
+170,72,Normal,Tam,27/02/2014,Manaus
+239,72,Normal,Gol,10/06/2014,Salvador
+43,72,Promocional,Tam,18/09/2014,Salvador
+326,72,Promocional,Azul,09/01/2015,Belo Horizonte
+207,72,Normal,Tam,24/03/2015,Bonito
+125,72,Promocional,Gol,16/10/2015,Rio
+23,72,Promocional,Gol,12/12/2015,Belo Horizonte
+993,72,Promocional,Tam,16/12/2015,Floripa
+64,72,Normal,Azul,24/12/2015,Fortaleza
+381,73,Normal,Gol,03/01/2014,Curitiba
+554,73,Normal,Tam,03/02/2014,Fortaleza
+826,73,Promocional,Azul,21/02/2014,Curitiba
+700,73,Promocional,Azul,16/06/2014,Rio
+735,73,Normal,Tam,20/06/2014,Floripa
+512,73,Normal,Tam,30/06/2014,Curitiba
+77,73,Promocional,Gol,29/07/2014,Curitiba
+818,73,Promocional,Azul,14/12/2014,Salvador
+722,73,Promocional,Azul,29/01/2015,Rio
+172,73,Normal,Azul,16/03/2015,Bonito
+226,73,Normal,Azul,19/05/2015,Fortaleza
+943,73,Normal,Tam,17/09/2015,Rio
+932,73,Promocional,Gol,21/09/2015,Floripa
+567,73,Promocional,Azul,03/11/2015,Curitiba
+426,73,Promocional,Gol,08/11/2015,Fortaleza
+36,74,Promocional,Azul,08/01/2014,Belo Horizonte
+759,74,Promocional,Tam,17/02/2014,Sao Paulo
+471,74,Promocional,Tam,10/04/2014,Manaus
+96,74,Normal,Tam,15/05/2014,Fortaleza
+42,74,Promocional,Tam,24/05/2014,Belo Horizonte
+601,74,Promocional,Gol,04/07/2014,Rio
+583,74,Promocional,Gol,09/09/2014,Fortaleza
+934,74,Normal,Gol,18/10/2014,Floripa
+246,74,Normal,Azul,17/12/2014,Sao Paulo
+281,74,Normal,Gol,07/03/2015,Bonito
+114,74,Normal,Gol,13/05/2015,Porto Alegre
+303,74,Promocional,Tam,06/06/2015,Sao Paulo
+693,74,Promocional,Tam,19/06/2015,Curitiba
+773,74,Normal,Azul,21/06/2015,Bonito
+648,74,Promocional,Azul,09/10/2015,Floripa
+65,74,Normal,Azul,09/11/2015,Vila Velha
+430,75,Promocional,Gol,13/03/2014,Rio
+751,75,Normal,Gol,06/06/2014,Fortaleza
+220,75,Promocional,Tam,29/07/2014,Floripa
+542,75,Normal,Azul,29/07/2014,Bonito
+957,75,Normal,Azul,05/09/2014,Fortaleza
+227,75,Promocional,Gol,23/12/2014,Fortaleza
+476,75,Normal,Tam,21/01/2015,Vila Velha
+940,75,Promocional,Gol,22/03/2015,Fortaleza
+580,75,Normal,Tam,29/08/2015,Manaus
+489,75,Promocional,Azul,13/11/2015,Fortaleza
